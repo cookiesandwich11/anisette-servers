@@ -36,5 +36,9 @@
             "name": "SeasiDev",
             "address": "https://anisette.seasi.dev"
         }
+        {
+            "name": "Cookie11",
+            "address": "https://anisette-v3-server-mine.onrender.com"
+        }
     ]
 }
